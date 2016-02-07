@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/noelk/Unity/Unity-Example/Assets/exampl1-brown.unity
+  isLoaded: 1
+  isActive: 1
